@@ -4,8 +4,8 @@
 #include <MFRC522.h>
 
 // Wi-Fi ayarları
-const char* ssid = "FiberHGW_TPB852";      // Wi-Fi SSID'nizi buraya yazın
-const char* password = "YFcxfjzjpRX9"; // Wi-Fi şifrenizi buraya yazın
+const char* ssid = "ssid";      // Wi-Fi SSID'nizi buraya yazın
+const char* password = "password"; // Wi-Fi şifrenizi buraya yazın
 // M
 #define SS_PIN 4   // GPIO 4 (D2)
 #define RST_PIN 0  // GPIO 0 (D3)
